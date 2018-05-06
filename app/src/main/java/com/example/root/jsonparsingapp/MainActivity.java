@@ -21,6 +21,8 @@ public class MainActivity extends Activity {
     private JsonObjectRequest mRequestObject;
     private MyAdapter mMyAdapter;
 
+    
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
